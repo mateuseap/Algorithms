@@ -49,5 +49,6 @@ int binarySearch(int vet[], int k, int n){
 }
 
 int main(){
-
+    
+    return 0;
 }
