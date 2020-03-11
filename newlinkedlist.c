@@ -7,7 +7,7 @@ typedef struct node{
     struct node *next;
 } Node; //Estrutara básica dos elementos da lista
 
-void inserir(Node *n, int data){
+void insert(Node *n, int data){
     Node *curr = n;
     Node *n1 = (Node*) malloc(sizeof(Node));
     n1->data = data;
@@ -18,7 +18,7 @@ void inserir(Node *n, int data){
     curr->next = n1;
 } //Função utilizada para inserir um elemento no final da minha lista
 
-Node *buscar(Node *n, int pos){
+Node *find(Node *n, int pos){
     Node *curr = n;
     int i = 0;
     while((curr->next != NULL) && (i < pos)){
@@ -42,9 +42,9 @@ int main(){
     sentinela->data = -1;
     sentinela->next = NULL;
     
-    inserir(sentinela, 1);
-    inserir(sentinela, 2);
-    inserir(sentinela, 3);
+    insert(sentinela, 1);
+    insert(sentinela, 2);
+    insert(sentinela, 3);
 
     display(sentinela);
 
