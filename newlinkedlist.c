@@ -8,23 +8,24 @@ typedef struct node{
 } Node; //Estrutara básica dos elementos da lista
 
 void inserir(Node *n, int data){
-    Node *n1;
-    n1 = (Node*) malloc(sizeof(Node));
+    Node *curr = n;
+    Node *n1 = (Node*) malloc(sizeof(Node));
     n1->data = data;
     n1->next = NULL;
-    while(n->next != NULL){
-        n = n->next;
+    while(curr->next != NULL){
+        curr = curr->next;
     }
-    n->next = n1;
+    curr->next = n1;
 } //Função utilizada para inserir um elemento no final da minha lista
 
 Node *buscar(Node *n, int pos){
+    Node *curr = n;
     int i = 0;
-    while(n->next != NULL || i < pos){
-        n = n->next;
+    while((curr->next != NULL) && (i < pos)){
+        curr = curr->next;
         i++;
     }
-    return n;
+    return curr;
 } //Buscar feita para acessar um elemento em determinada posição da lista
 
 void display(Node *n){
@@ -33,12 +34,11 @@ void display(Node *n){
         printf("%d ", n->data);
         n = n->next;
     }
-}
+} //Função utilizada para mostrar o último elemento da lista
 
 int main(){
 
-    Node *sentinela;
-    sentinela = (Node*) malloc(sizeof(Node));
+    Node *sentinela = (Node*) malloc(sizeof(Node));
     sentinela->data = -1;
     sentinela->next = NULL;
     
