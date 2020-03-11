@@ -1,14 +1,15 @@
-#include <bits/stdc++.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
-using namespace std;
-
-typedef struct{
+typedef struct node{
     int data;
     struct node *next;
 } Node; //Estrutara básica dos elementos da lista
 
 void inserir(Node *n, int data){
-    Node *n1 = new Node();
+    Node *n1;
+    n1 = (Node*) malloc(sizeof(Node));
     n1->data = data;
     n1->next = NULL;
     while(n->next != NULL){
@@ -29,14 +30,15 @@ Node *buscar(Node *n, int pos){
 void display(Node *n){
     n = n->next;
     while(n != NULL){
-        cout<<n->data<<" ";
+        printf("%d ", n->data);
         n = n->next;
     }
 }
 
 int main(){
 
-    Node* sentinela = new Node();
+    Node *sentinela;
+    sentinela = (Node*) malloc(sizeof(Node));
     sentinela->data = -1;
     sentinela->next = NULL;
     
