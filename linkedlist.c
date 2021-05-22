@@ -65,21 +65,19 @@ void append(List *l,char it){
     l->cnt++;
 }
 
-char remove(List *l){
-    char it;
+char rmv(List *l){
     Link *temp;
     if(l->curr->next == NULL){
-        return -1;
+        return '1';
     }
-    it = l->curr->next->element;
     if(l->tail == l->curr->next){
         l->tail = l->curr;
     }
     temp = l->curr->next;
-    free(temp);
     l->curr->next = l->curr->next->next;
+    free(temp);
     l->cnt--;
-    return it;
+    return '0';
 }
 
 void moveToStart(List *l){
@@ -145,6 +143,6 @@ char getValue(List *l){
 #define max 100000
 
 int main(){
-    
+
     return 0;
 }
