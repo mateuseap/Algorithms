@@ -56,7 +56,25 @@ int quickSort(int vet[], int l, int r){
     }
 }
 
+#define max 100
+
 int main(){
+
+    int n, v[max]; //n is the size of the array
+
+    scanf("%d", &n);
+
+    for(int i = 0; i < n; i++){
+        scanf("%d", &v[i]);
+    }
+
+    quickSort(v, 0, n-1);
+    
+    printf("\n");
+
+    for(int i = 0; i < n; i++){
+        printf("%d ", v[i]);
+    }
 
     return 0;
 }
