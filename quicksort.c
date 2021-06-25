@@ -15,6 +15,21 @@ com o nosso pivô. Um segmento irá possuir os elementos menores do que o nosso 
 e o outro irá possuir os elementos maiores do que o nosso pivô.
 */
 
+/*
+#include <chrono>
+#include <random>
+
+mt19937 rng(chrono::steady_clock::now().time_since_epoch().count());
+
+p = uniform_int_distribution<int>(l,r)(rng), temp;
+swap(vet[p],vet[l])
+
+Com isso nós realizamos uma escolha mais eficiente do pivô, pois estamos escolhendo um 
+pivô de forma aleatória com os trechos de códigos acima.
+
+Link explicativo: https://codeforces.com/blog/entry/61587
+*/
+
 int HoarePartition(int vet[], int l, int r){
     int i = l, j = r+1, p = vet[l], temp;
     do{ 
