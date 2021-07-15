@@ -2,7 +2,7 @@
 
 void insertionSort(int *v, int n){
     int k, j;
-    for(int i = 1; i < n; i++){
+    for(int i = 0; i < n; i++){
         k = v[i];
         j = i-1;
         while((j >= 0) && (v[j] > k)){
