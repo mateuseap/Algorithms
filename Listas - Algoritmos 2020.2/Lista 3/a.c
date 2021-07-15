@@ -3,11 +3,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-typedef struct BSTNode{
+typedef struct bstnode{
     int key;
     int element;
-    BSTNode *left;
-    BSTNode *right;
+    struct bstnode *left;
+    struct bstnode *right;
 } BSTNode;
 
 typedef struct{
