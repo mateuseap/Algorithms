@@ -20,6 +20,7 @@ Algorithms, Data Structures and resolution of programming questions implemented 
 ### :white_check_mark: Problems Solved:
 - [Codeforces 1A - Theatre Square](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%201A%20-%20Theatre%20Square.c)
 - [Codeforces 4A - Watermelon](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%204A%20-%20Watermelon.c)
+- [Codeforces 637B - Chat Order](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%20637B%20-%20Chat%20Order.cpp)
 - [Codeforces 892A - Greed](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%20892A%20-%20Greed.c)
 - [SPOJ NAKANJ - Minimum Knight moves](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/SPOJ%20NAKANJ%20-%20Minimum%20Knight%20moves.cpp)
 - [SPOJ SDITSAVL - AVL Tree](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/SPOJ%20SDITSAVL%20-%20AVL%20Tree.c)
