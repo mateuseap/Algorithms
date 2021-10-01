@@ -1,4 +1,4 @@
-# Algorithms
+# Algorithms ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=mateuseap&repo=Algorithms&countColor=%237B1E7A)
 Algorithms, Data Structures and resolution of programming questions implemented in C/C++.
 
 ### :clipboard: Algorithms:
