@@ -1,3 +1,5 @@
+//Question link: https://codeforces.com/problemset/problem/112/A
+
 #include <iostream>
 #include <strings.h>
 #include <string.h>
