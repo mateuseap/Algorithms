@@ -20,6 +20,12 @@ Algorithms, Data Structures and resolution of programming questions implemented 
 ### :white_check_mark: Problems Solved:
 - [Codeforces 1A - Theatre Square](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%201A%20-%20Theatre%20Square.c)
 - [Codeforces 4A - Watermelon](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%204A%20-%20Watermelon.c)
+- [Codeforces 50A - Domino piling](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%2050A%20-%20Domino%20piling.cpp)
+- [Codeforces 112A - Petya and Strings](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%20112A%20-%20Petya%20and%20Strings.cpp)
+- [Codeforces 158A - Next Round](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%20158A%20-%20Next%20Round.cpp)
+- [Codeforces 263A - Beautiful Matrix](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%20263A%20-%20Beautiful%20Matrix.cpp)
+- [Codeforces 282A - Bit++](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%20282A%20-%20Bit%2B%2B.cpp)
+- [Codeforces 339A - Helpful Maths](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%20339A%20-%20Helpful%20Maths.cpp)
 - [Codeforces 637B - Chat Order](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%20637B%20-%20Chat%20Order.cpp)
 - [Codeforces 892A - Greed](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%20892A%20-%20Greed.c)
 - [Codeforces 1593A - Elections](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%201593A%20-%20Elections.cpp)
