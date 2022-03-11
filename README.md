@@ -27,6 +27,7 @@ Algorithms, Data Structures and resolution of programming questions implemented 
 - [Codeforces 282A - Bit++](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%20282A%20-%20Bit%2B%2B.cpp)
 - [Codeforces 339A - Helpful Maths](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%20339A%20-%20Helpful%20Maths.cpp)
 - [Codeforces 637B - Chat Order](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%20637B%20-%20Chat%20Order.cpp)
+- [Codeforces 676C - Vasya and String](https://github.com/mateuseap/Algorithms/commit/31812308ce152c752a576c5ed0911903cd16bd29)
 - [Codeforces 892A - Greed](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%20892A%20-%20Greed.c)
 - [Codeforces 1593A - Elections](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%201593A%20-%20Elections.cpp)
 - [Codeforces 1593B - Make it Divisible by 25](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%201593B%20-%20Make%20it%20Divisible%20by%2025.cpp)
