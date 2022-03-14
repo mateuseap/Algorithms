@@ -1,3 +1,5 @@
+//Question link: https://www.spoj.com/problems/BSEARCH1/en/
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
