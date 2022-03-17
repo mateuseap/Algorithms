@@ -1,3 +1,5 @@
+//Question link: https://codeforces.com/problemset/problem/676/C
+
 #include <iostream>
 
 using namespace std;
