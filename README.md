@@ -39,6 +39,7 @@ Algorithms, Data Structures and resolution of programming questions implemented 
 - [Codeforces 1593F - Red-Black Number](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%201593F%20-%20Red-Black%20Number.cpp)
 - [Codeforces 1593G - Changing Brackets](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%201593G%20-%20Changing%20Brackets.cpp)
 - [SPOJ BSEARCH1 - Binary search](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/SPOJ%20BSEARCH1%20-%20Binary%20search.c)
+- [SPOJ HASHIT - Hash it!](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/SPOJ%20HASHIT%20-%20Hash%20it!.cpp)
 - [SPOJ NAKANJ - Minimum Knight moves](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/SPOJ%20NAKANJ%20-%20Minimum%20Knight%20moves.cpp)
 - [SPOJ SDITSAVL - AVL Tree](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/SPOJ%20SDITSAVL%20-%20AVL%20Tree.c)
 - [SPOJ STPAR - Street Parade](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/SPOJ%20STPAR%20-%20Street%20Parade.c)
