@@ -1,4 +1,5 @@
 //Question link: https://www.spoj.com/problems/HASHIT/en/
+
 #include<iostream>
 #include<vector>
 #include<cstdio>
