@@ -44,6 +44,7 @@ Algorithms, Data Structures and resolution of programming questions implemented 
 - [Codeforces 1703D - Double Strings](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%201703D%20-%20Double%20Strings.cpp)
 - [Codeforces 1722A - Spell Check](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%201722A%20-%20Spell%20Check.cpp)
 - [Codeforces 1722B - Colourblindness](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%201722B%20-%20Colourblindness.cpp)
+- [Codeforces 1759A - Yes-Yes?](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%201759A%20-%20Yes-Yes%3F.cpp)
 - [SPOJ BSEARCH1 - Binary search](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/SPOJ%20BSEARCH1%20-%20Binary%20search.c)
 - [SPOJ HASHIT - Hash it!](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/SPOJ%20HASHIT%20-%20Hash%20it!.cpp)
 - [SPOJ NAKANJ - Minimum Knight moves](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/SPOJ%20NAKANJ%20-%20Minimum%20Knight%20moves.cpp)
