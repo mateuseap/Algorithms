@@ -1,21 +1,80 @@
 # Algorithms
-Algorithms, Data Structures and resolution of programming questions implemented in C/C++.
+Algorithms, Data Structures and resolution of programming questions.
 
 ### :clipboard: Algorithms:
-- [Binary Search](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/binarysearch.c)
-- [Bubble Sort](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/bubblesort.c)
-- [Dijkstra](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/dijkstra.cpp)
-- [Insertion Sort](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/insertionsort.c)
-- [Merge Sort](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/mergesort.c)
-- [Quicksort](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/quicksort.c)
-- [Selection Sort](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/selectionsort.c)
+<details>
+  <summary>Binary Search</summary>
+
+  - [C](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/binarySearch.c)
+  - [Ruby](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/binary_search.rb)
+</details>
+
+<details>
+  <summary>Bubble Sort</summary>
+
+  - [C](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/bubbleSort.c)
+</details>
+
+<details>
+  <summary>Dijkstra</summary>
+
+  - [C++](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/dijkstra.cpp)
+</details>
+
+<details>
+  <summary>Insertion Sort</summary>
+
+  - [C](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/insertionSort.c)
+</details>
+
+<details>
+  <summary>Merge Sort</summary>
+
+  - [C](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/mergeSort.c)
+</details>
+
+<details>
+  <summary>Quicksort</summary>
+
+  - [C](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/quicksort.c)
+</details>
+
+<details>
+  <summary>Selection Sort</summary>
+
+  - [C](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/selectionSort.c)
+</details>
 
 ### 🗃️ Data Structures:
-- [AVL Tree](https://github.com/mateuseap/Algorithms/blob/master/Data%20Structures/avl.c)
-- [Binary Search Tree](https://github.com/mateuseap/Algorithms/blob/master/Data%20Structures/bst.c)
-- [Linked List](https://github.com/mateuseap/Algorithms/blob/master/Data%20Structures/linkedlist.c)
-- [Queue](https://github.com/mateuseap/Algorithms/blob/master/Data%20Structures/queue.c)
-- [Stack](https://github.com/mateuseap/Algorithms/blob/master/Data%20Structures/stack.c)
+<details>
+  <summary>AVL Tree</summary>
+
+  - [C](https://github.com/mateuseap/Algorithms/blob/master/Data%20Structures/avl.c)
+</details>
+
+<details>
+  <summary>Binary Search Tree</summary>
+
+  - [C](https://github.com/mateuseap/Algorithms/blob/master/Data%20Structures/bst.c)
+</details>
+
+<details>
+  <summary>Linked List</summary>
+
+  - [C](https://github.com/mateuseap/Algorithms/blob/master/Data%20Structures/linkedList.c)
+</details>
+
+<details>
+  <summary>Queue</summary>
+
+  - [C](https://github.com/mateuseap/Algorithms/blob/master/Data%20Structures/queue.c)
+</details>
+
+<details>
+  <summary>Stack</summary>
+
+  - [C](https://github.com/mateuseap/Algorithms/blob/master/Data%20Structures/stack.c)
+</details>
 
 ### :white_check_mark: Problems Solved:
 - [Codeforces 1A - Theatre Square](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%201A%20-%20Theatre%20Square.c)
