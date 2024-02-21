@@ -26,6 +26,7 @@ Algorithms, Data Structures and resolution of programming questions.
   <summary>Insertion Sort</summary>
 
   - [C](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/insertionSort.c)
+  - [Ruby](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/insertion_sort.rb)
 </details>
 
 <details>
