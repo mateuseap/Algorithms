@@ -30,7 +30,7 @@ pivô de forma aleatória com os trechos de códigos acima.
 Link explicativo: https://codeforces.com/blog/entry/61587
 */
 
-int HoarePartition(int *vet, int l, int r){
+int hoarePartition(int *vet, int l, int r){
     int i = l, j = r+1, p = vet[l], temp;
     do{ 
         do{
@@ -58,16 +58,16 @@ total do vetor -1 (tam-1, ou seja, tamanho do vetor -1). Após receber isso,
 se o começo do vetor for menor que o final do mesmo, chamamos a função da 
 partition de Hoare, que divide nosso
 vetor em 2, e salvamos na variável s o que a função retorna, após isso, chamamos
-o quickSort novamente para as duas metades do array, uma de l até s-1, e a outra de 
+o quicksort novamente para as duas metades do array, uma de l até s-1, e a outra de 
 s+1 até r, vamos fazendo isso enquanto l < r recursivamente.
 */
 
-void quickSort(int *vet, int l, int r){
+void quicksort(int *vet, int l, int r){
     int s;
     if(l < r){
-        s = HoarePartition(vet, l, r); 
-        quickSort(vet, l, s-1);
-        quickSort(vet, s+1, r);
+        s = hoarePartition(vet, l, r); 
+        quicksort(vet, l, s-1);
+        quicksort(vet, s+1, r);
     }
 }
 
@@ -83,7 +83,7 @@ int main(){
         scanf("%d", &v[i]);
     }
 
-    quickSort(v, 0, n-1);
+    quicksort(v, 0, n-1);
     
     printf("\n");
 
