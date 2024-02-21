@@ -38,4 +38,3 @@ def test_binary_search
 end
 
 test_binary_search
-

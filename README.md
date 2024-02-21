@@ -13,6 +13,7 @@ Algorithms, Data Structures and resolution of programming questions.
   <summary>Bubble Sort</summary>
 
   - [C](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/bubbleSort.c)
+  - [Ruby](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/bubble_sort.rb)
 </details>
 
 <details>
