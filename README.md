@@ -48,6 +48,7 @@ Algorithms, Data Structures and resolution of programming questions implemented 
 - [Codeforces 1791A - Codeforces Checking](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%201791A%20-%20Codeforces%20Checking.cpp)
 - [Codeforces 1791B - Following Directions](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%201791B%20-%20Following%20Directions.cpp)
 - [Codeforces 1791C - Prepend and Append](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/Codeforces%201791C%20-%20Prepend%20and%20Append.cpp)
+- [LeetCode 605 - Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)
 - [SPOJ BSEARCH1 - Binary search](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/SPOJ%20BSEARCH1%20-%20Binary%20search.c)
 - [SPOJ HASHIT - Hash it!](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/SPOJ%20HASHIT%20-%20Hash%20it!.cpp)
 - [SPOJ NAKANJ - Minimum Knight moves](https://github.com/mateuseap/Algorithms/blob/master/Problems%20Solved/SPOJ%20NAKANJ%20-%20Minimum%20Knight%20moves.cpp)
