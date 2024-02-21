@@ -45,6 +45,7 @@ Algorithms, Data Structures and resolution of programming questions.
   <summary>Selection Sort</summary>
 
   - [C](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/selectionSort.c)
+  - [Ruby](https://github.com/mateuseap/Algorithms/blob/master/Algorithms/selection_sort.rb)
 </details>
 
 ### 🗃️ Data Structures:
